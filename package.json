@@ -1,0 +1,22 @@
+{
+  "name": "examplesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Binary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinmayeePraveen/JavaScriptLearning.git"
+  },
+  "keywords": [
+    "pratyush"
+  ],
+  "author": "chinmayee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinmayeePraveen/JavaScriptLearning/issues"
+  },
+  "homepage": "https://github.com/ChinmayeePraveen/JavaScriptLearning#readme"
+}

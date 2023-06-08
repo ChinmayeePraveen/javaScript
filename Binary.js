@@ -22,5 +22,5 @@ while(leftIndex <= rightIndex)
     return -1
 }
 console.log(BinarySearch([10,20,30,40,50,70], 40))
-console.log(BinarySearch([10,20,30,40,50,], 10))
+//console.log(BinarySearch([10,20,30,40,50,], 10))
 console.log(BinarySearch([10,20,30,40,50], 20))
